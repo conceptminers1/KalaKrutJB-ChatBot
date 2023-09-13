@@ -21,7 +21,7 @@ set_language - To choose language of your choice
 """
 
 uuid_number = "UUID_NUMBER"
-bot = Bot(token="TELEGRAM_BOT_TOKEN_KEY")
+bot = Bot(token="6445990119:AAGdKkWcDsq5ZZnjw1aR8vIeYaK5w1Pxdhk")
 
 try:
     from telegram import __version_info__
