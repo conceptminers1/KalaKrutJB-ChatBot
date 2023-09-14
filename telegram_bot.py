@@ -20,7 +20,7 @@ start - Start the bot
 set_language - To choose language of your choice
 """
 
-uuid_number = "UUID_NUMBER"
+uuid_number = "6d2b9e76-5323-11ee-8ba8-0b7afcb4f71c"
 bot = Bot(token="6445990119:AAGdKkWcDsq5ZZnjw1aR8vIeYaK5w1Pxdhk")
 
 try:
