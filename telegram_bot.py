@@ -56,7 +56,7 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
     """Send a message when the command /start is issued."""
     user_name = update.message.chat.first_name
     welcome_message = (
-        f"Hi {user_name}, Welcome to the <CUSTOM_NAME> bot, "
+        f"Hi {user_name}, Welcome to the KalaKrut Jugalbandi.ai Chatbot, "
         "your friendly AI powered bot to answer your queries. "
         "Please be advised not to take these AI generated responses as "
         "standard/correct information. Always consult with the concerned "
